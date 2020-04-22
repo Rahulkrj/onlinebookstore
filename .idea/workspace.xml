@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58b7220b-b696-4458-9b17-5462af76cb03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/java/com/rjstudio360/onlinebookstore/OnlinebookstoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/java/com/rjstudio360/onlinebookstore/config/RepositoryConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/java/com/rjstudio360/onlinebookstore/entity/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/java/com/rjstudio360/onlinebookstore/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/java/com/rjstudio360/onlinebookstore/repository/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/java/com/rjstudio360/onlinebookstore/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-book-store-api/src/test/java/com/rjstudio360/onlinebookstore/OnlinebookstoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinebookstore/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinebookstore/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinebookstore/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/onlinebookstore" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1587579888372">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1587579888372" />
+  </component>
+</project>
