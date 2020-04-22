@@ -12,6 +12,8 @@ import javax.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.CreationTimestamp;
+import org.hibernate.annotations.UpdateTimestamp;
 
 /**
  * @author Rahul
@@ -49,9 +51,11 @@ public class Book {
   @Column(name = "unit_in_stock")
   private int uniteInStock;
 
+  @CreationTimestamp
   @Column(name = "date_created")
   private Date dateCreated;
 
+  @UpdateTimestamp
   @Column(name = "last_update")
   private Date lastUpdate;
 
